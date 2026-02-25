@@ -1,0 +1,5 @@
+{
+  "name": "EduCheck - Checklist Digital Pedagógico",
+  "description": "Sistema de controle de inventário e checklist de materiais pedagógicos com exportação de comprovantes em PDF e assinatura digital.",
+  "requestFramePermissions": []
+}
